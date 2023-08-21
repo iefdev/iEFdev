@@ -6,4 +6,4 @@ Git signing key: [0xF2BB3209BCCCE54D][key]
 
 <!-- markdown links -->
 [gl]: https://gitlab.com/iEFdev "iEFdev @ GitLab"
-[key]: https://gitlab.com/snippets/1722677 "0xF2BB3209BCCCE54D"
+[key]: https://gitlab.com/-/snippets/1722677 "0xF2BB3209BCCCE54D"
